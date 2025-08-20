@@ -3,7 +3,7 @@ name: Build and Push Docker Images
 on:
   workflow_dispatch:
     branches:
-      - dev
+      - master
 
 jobs:
   build:
@@ -34,6 +34,6 @@ jobs:
           context: .
           push: true
           tags: |
-            stcwl/iptv-api:latest
-            stcwl/iptv-api:${{ env.version }}
-          platforms: linux/amd64,linux/arm64,linux/arm/v7
+            stcwl/iptv:latest
+            stcwl/iptv:${{ env.version }}
+          platforms: linux/amd64
