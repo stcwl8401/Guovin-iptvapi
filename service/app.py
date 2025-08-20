@@ -193,7 +193,7 @@ def show_log():
     return response
 
 
-@app.route("/log/speed-test")
+@app.route("/log/speed-test", endpoint="speed_test_log")
 def show_log():
     if os.path.exists(constants.speed_test_log_path):
         with open(constants.speed_test_log_path, "r", encoding="utf-8") as file:
