@@ -2,3 +2,22 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
+106.53.99.30
+fjcm-2118
+gaoma
+8.138.7.223
+iill
+mursor
+migutoken
+epg.pw
+skype.serv00.net
+iptv.yjxfz.com
+live-hls-web-ajb.getaj.net
+live.goodiptv.club
+hc73k3dhwo5gfkt.wcetv.com
+stream1.freetv.fun
+zw9999.cnstream.top
+zsntlqj.xicp.net
+ku9.3n.cc
+gddf
+akamaized
