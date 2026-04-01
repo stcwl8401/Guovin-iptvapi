@@ -3,11 +3,17 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://live.264788.xyz/sub/02RRxc3dy1UQ5wD9Qptq0p8QgU1DyT/txt
+https://unraid.stcwl.xyz/pg/gggg.txt
+https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt
+https://live.ottiptv.cc/iptv.m3u?userid=1661957540&sign=854dffb58292540c0cfb2fbae2860eefb6d3c30d0c29c3fa85fe8c22807d113f60492f13070470e9e649ab40ed5c102fa47d13ed940b311829cc29c4485d078aa76823e84a9739&auth_token=9e3518ac6a3aa3d7af2521b94d4da97d
+https://php.946985.filegear-sg.me/jackTV.m3u
+https://gptapi.passwdword.xyz/get.php?username=tg_t2pc28w9&password=dh1b12eiz0ws&type=m3u_plus
+http://iptv.4666888.xyz/FYTV.txt
+https://live.zbds.top/tv/iptv4.txt
+https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
+https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt
+https://d.kstore.dev/download/15114/gztv.txt
 
 
 
