@@ -5,7 +5,16 @@
 # Filling in the channel name will directly retain the record to the final result of the channel, such as: CCTV-1, interface address;
 # If the channel name is not filled in, the address will be added to the results of all channels, with multiple records entered on new lines.
 
-
+汕头新闻综合,https://kr.stcwl.xyz/sttv.php?id=st1
+汕头新闻综合,https://itv.stcwl.xyz/udp/239.21.0.101:3744
+汕头经济生活,https://itv.stcwl.xyz/udp/239.21.0.102:3748
+汕头经济生活,https://kr.stcwl.xyz/sttv.php?id=st2
+潮州民生,https://itv.stcwl.xyz/udp/239.21.0.146:3928
+潮州综合,https://itv.stcwl.xyz/udp/239.21.0.145:3924
+揭阳生活,https://itv.stcwl.xyz/udp/239.21.0.92:3708
+揭阳综合,https://itv.stcwl.xyz/udp/239.21.0.91:3704
+广东体育,https://itv.stcwl.xyz/udp/239.10.0.113:1025
+广东新闻,https://itv.stcwl.xyz/udp/239.10.0.199:1025
 
 
 
